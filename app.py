@@ -6,7 +6,7 @@ app = Flask(__name__)
 # -----------------------
 # HARD-CODED CONFIG (DEMO ONLY)
 # -----------------------
-API_KEY = "5b85aa12f0b75247243f4f7ce4b0aff7"
+API_KEY = ("")
 CITY = "Cork"
 WEATHER_URL = "https://api.openweathermap.org/data/3.0/weather"
 
