@@ -4,7 +4,7 @@ from flask import Flask, jsonify
 app = Flask(__name__)
 
 # -----------------------
-# HARD-CODED CONFIG (DEMO ONLY)
+# HARD-CODED CONFIG (DEMO ONLY) jhsdvhjds
 # -----------------------
 API_KEY = ("")
 CITY = "Cork"
